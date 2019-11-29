@@ -1,0 +1,124 @@
+body
+{
+    margin : 0 auto 0 auto;
+    padding : 0;
+    width : 100%;
+    font-family: 'Lato', sans-serif;
+}
+
+header
+{
+    width : 100%;
+    height : 150px;
+    background-color: #106900;
+    padding: 20px 0;
+}
+
+h1, h2
+{
+    margin : 0;
+    font-size: 40px;
+    text-align: center;
+    color: mintcream;
+}
+
+h2
+{
+    font-size: 25px;
+}
+h3
+{
+    margin-top: 15px;
+    text-align: center;
+}
+
+#container
+{
+    width: 90%;
+    margin : 25px auto 25px auto;
+    border : #106900 2px solid;
+    border-radius: 15px 1px 15px 1px;
+    display : flex;
+    justify-content: space-around;
+
+}
+#game_zone
+{
+    width: 65%;
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li
+{
+    line-height: 1.5;
+}
+
+#game_zone
+{
+    width : 60%;
+    height: 300px;
+}
+#score_zone
+{
+    width: 35%;
+}
+
+span
+{
+    font-size: 40px;
+    width : 60px;
+    height: 60px;
+}
+#result
+{
+    width: 50%;
+    margin : 15px auto 0 auto;
+}
+
+#user_score
+{
+    height: 50px;
+    width: 50px;
+}
+
+#vert
+{
+    color : #0B2E13;
+
+}
+
+#bleu
+{
+    color : #16193D;
+    margin : 15px;
+
+}
+
+#jaune
+{
+    color : #E0D42B;
+
+}
+
+#marron
+{
+    color : #69471E;
+
+}
+
+#trash{
+    font-size: 60px;
+    margin-top: 15%;
+}
+
+#trash_item{
+    font-size: 40px;
+    margin-top: 30px;
+}
